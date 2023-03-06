@@ -1,12 +1,12 @@
 {
-    "TRAIN": "Zug",
-    "ARRIVAL": "Ankunft",
-    "VIA": "über",
-    "DESTINATION": "Ziel",
-    "DEPARTURE": "Abfahrt",
-    "NOW": "sofort",
-    "MINUTE": "Min",
-    "HOUR": "Std",
-    "TRACK": "Gleis",
-    "DELAYMSG": "Verspätungs Msg"
-  }
+  "TRAIN": "Zug",
+  "ARRIVAL": "Ankunft",
+  "VIA": "über",
+  "DESTINATION": "Ziel",
+  "DEPARTURE": "Abfahrt",
+  "NOW": "sofort",
+  "MINUTE": "Min",
+  "HOUR": "Std",
+  "TRACK": "Gleis",
+  "DELAYMSG": "Verspätungs Msg"
+}
